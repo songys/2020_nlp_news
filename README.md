@@ -21,5 +21,8 @@ pip install https://github.com/dmlc/gluon-nlp/tarball/master
 [https://www.youtube.com/playlist?list=PLqYmG7hTraZCDxZ44o4p3N5Anz3lLRVZF](https://www.youtube.com/playlist?list=PLqYmG7hTraZCDxZ44o4p3N5Anz3lLRVZF)
 
 
+# 딥러닝 모델
+https://github.com/rasbt/deeplearning-models
+
 
 
