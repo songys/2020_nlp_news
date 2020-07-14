@@ -7,8 +7,11 @@ word2vec vs BERT 비교
 
 https://towardsdatascience.com/visualisation-of-embedding-relations-word2vec-bert-64d695b7f36
 
-관련 코드 colab
+ - 관련 코드 colab
 https://colab.research.google.com/drive/1TCgnpIwsr6uK4cP0Gk1RCCQrFy6s3Xc1
+
+ - bert embedding 모듈 끌어오기
+pip install https://github.com/dmlc/gluon-nlp/tarball/master
 
 
 
