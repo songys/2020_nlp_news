@@ -32,3 +32,8 @@ pip install https://github.com/dmlc/gluon-nlp/tarball/master
 https://github.com/juand-r/entity-recognition-datasets
 
 
+
+# 블로그
+-챗봇 유지 관리에 대한 글
+https://brunch.co.kr/@gentlepie/51?fbclid=IwAR1iiK0zhTbEzRZpR_UFNw1l9fPp9Tol5mR3HLNQgkThR7wugpJdpCEd5YM
+
