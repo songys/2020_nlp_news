@@ -27,17 +27,16 @@ pip install https://github.com/dmlc/gluon-nlp/tarball/master
 
 # 3. 데이터 
 
-## 개체명(Named entity) 관련 데이터 세트 정리해 둔 저장소      
-- 영어, 한국어 등 다양한 언어에서 개체명 인식을 위한 데이터 세크 링크                      
+## 개체명(Named entity) 관련 데이터 세트 정리해 둔 저장소(영어, 한국어 등 다양한 언어에서 개체명 인식을 위한 데이터 세크 링크)                      
 https://github.com/juand-r/entity-recognition-datasets
 
 
 
-# 블로그             
--챗봇 유지 관리에 대한 글         
+# 4. 블로그             
+## 챗봇 유지 관리에 대한 글         
 https://brunch.co.kr/@gentlepie/51?fbclid=IwAR1iiK0zhTbEzRZpR_UFNw1l9fPp9Tol5mR3HLNQgkThR7wugpJdpCEd5YM
 
 
--핑퐁팀 일본어 NLP 경험 공유
+## 핑퐁팀 일본어 NLP 경험 공유
 https://blog.pingpong.us/japanese/?fbclid=IwAR3KQ9l5OrPnFYMb1lQyTj1wWCHxBoEVRi7NDpYRGQo0PqyhKl78s-sD4rA
 
